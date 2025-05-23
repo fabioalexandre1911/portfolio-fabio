@@ -67,7 +67,7 @@ npm start
 <br>
 
 ## 💻 Demonstração
-Para visualizar uma prévia do projeto <a href="fabiosousa.dev.br/react"><b>clique aqui</b></a>
+Para visualizar uma prévia do projeto <a href="https://fabioalexandre1911.github.io/portfolio-fabio"><b>clique aqui</b></a>
 
 <br>
 
