@@ -151,6 +151,26 @@ export const projects = [
         codigo: 'https://erp.erpress.com.br/',
         demo: 'https://erp.erpress.com.br/'
     },
+    {
+        id: 5,
+        img: imagem04,
+        category: 'WORDPRESS',
+        title: 'Agência',
+        description:
+            'Este é um website institucional de uma agência de websites demo. Construção com Wordpress',
+        codigo: 'https://downloadsistemas.com.br/agencia/',
+        demo: 'https://downloadsistemas.com.br/agencia/'
+    },
+    {
+        id: 6,
+        img: imagem04,
+        category: 'WORDPRESS',
+        title: 'Advocacia',
+        description:
+            'Este é um website institucional de advocacia demo. Construção com Wordpress',
+        codigo: 'https://downloadsistemas.com.br/advocacia/',
+        demo: 'https://downloadsistemas.com.br/advocacia/'
+    },
     
 ]
 
