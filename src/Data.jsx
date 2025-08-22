@@ -7,22 +7,18 @@ import imagem02 from '/public/amope.jpg'
 import imagem03 from '/public/esa.jpg'
 import imagem04 from '/public/erp.jpg'
 import imagem05 from '/public/agencia.jpg'
-import imagem06 from '/public/advocacia.jpg'
+import imagem06 from '/public/advocacia.jpg'    
 
-/* ======= Icones Tecnologias =======*/
+/*======== Importando os icones =======*/
 import { SiNodedotjs } from 'react-icons/si';
-import { SiPhp } from 'react-icons/si';
-import { SiCodeigniter } from 'react-icons/si';
 import { SiWordpress } from 'react-icons/si';
+import { SiCodeigniter } from 'react-icons/si';
+import { SiJquery } from 'react-icons/si';
+import { SiStyledcomponents } from 'react-icons/si';
 
-//import imagem01 from '/public/edmarcio.jpg'
-//import imagem02 from '/public/amope.jpg'
-//import imagem03 from '/public/esa.jpg'
-//import imagem04 from '/public/erp.jpg'
 
-//import imagem05 from '/public/calculadora-react.jpg'
-//import imagem06 from '/public/disney+.jpg'
 
+/*======== Exportando os dados =======*/    
 
 export const links = [
     {
@@ -167,7 +163,7 @@ export const projects = [
     },
     {
         id: 5,
-        img: imagem05,
+        img: imagem04,
         category: 'WORDPRESS',
         title: 'Agência',
         description:
@@ -177,7 +173,7 @@ export const projects = [
     },
     {
         id: 6,
-        img: imagem06,
+        img: imagem04,
         category: 'WORDPRESS',
         title: 'Advocacia',
         description:
