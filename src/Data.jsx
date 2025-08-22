@@ -7,18 +7,8 @@ import imagem02 from '/public/amope.jpg'
 import imagem03 from '/public/esa.jpg'
 import imagem04 from '/public/erp.jpg'
 import imagem05 from '/public/agencia.jpg'
-import imagem06 from '/public/advocacia.jpg'    
+import imagem06 from '/public/advocacia.jpg'
 
-/*======== Importando os icones =======*/
-import { SiNodedotjs } from 'react-icons/si';
-import { SiWordpress } from 'react-icons/si';
-import { SiCodeigniter } from 'react-icons/si';
-import { SiJquery } from 'react-icons/si';
-import { SiStyledcomponents } from 'react-icons/si';
-
-
-
-/*======== Exportando os dados =======*/    
 
 export const links = [
     {
@@ -163,23 +153,23 @@ export const projects = [
     },
     {
         id: 5,
-        img: imagem04,
-        category: 'WORDPRESS',
+        img: imagem05,
+        category: 'Wordpress',
         title: 'Agência',
         description:
-            'Este é um website institucional de uma agência de websites demo. Construção com Wordpress',
-        codigo: 'https://downloadsistemas.com.br/agencia/',
-        demo: 'https://downloadsistemas.com.br/agencia/'
+            'Site institucional de uma agência de marketing digital, com foco em serviços de SEO, criação de sites e gestão de redes sociais.',
+        codigo: 'https://agenciadigital.com.br/',
+        demo: 'https://agenciadigital.com.br/'
     },
     {
         id: 6,
-        img: imagem04,
-        category: 'WORDPRESS',
+        img: imagem06,
+        category: 'Wordpress',
         title: 'Advocacia',
         description:
-            'Este é um website institucional de advocacia demo. Construção com Wordpress',
-        codigo: 'https://downloadsistemas.com.br/advocacia/',
-        demo: 'https://downloadsistemas.com.br/advocacia/'
+            'Site institucional de um escritório de advocacia, apresentando serviços jurídicos e informações sobre a equipe.',
+        codigo: 'https://advocaciaexemplo.com.br/',
+        demo: 'https://advocaciaexemplo.com.br/'
     },
     
 ]
