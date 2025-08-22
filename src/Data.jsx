@@ -125,7 +125,7 @@ export const projects = [
         id: 2,
         img: imagem02,
         category: 'Javascript',
-        title: 'Website',
+        title: 'Websites',
         description:
             'Este é um website de cliníca de podologia em Fortaleza! Com vários tipos de tratamentos com profissionais altamente especializadas. Construção com HTML, CSS e JavaScript e Wordpress',
         codigo: 'https://amopepodologia.com.br/',
