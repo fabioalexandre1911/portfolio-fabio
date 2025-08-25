@@ -118,7 +118,7 @@ export const projects = [
         title: 'Website',
         description:
             'Este é um website de Edmárcio Rodrigues, mestre de artes marciais com mais de três décadas de dedicação e paixão por diversas modalidades de luta. Construção com react e sass',
-        codigo: 'https://edmarciorodrigues.com.br/',
+        //codigo: 'https://edmarciorodrigues.com.br/',
         demo: 'https://edmarciorodrigues.com.br/'
     },
     {
@@ -128,7 +128,7 @@ export const projects = [
         title: 'Website',
         description:
             'Este é um website de cliníca de podologia em Fortaleza! Com vários tipos de tratamentos com profissionais altamente especializadas. Construção com HTML, CSS e JavaScript e Wordpress',
-        codigo: 'https://amopepodologia.com.br/',
+        //codigo: 'https://amopepodologia.com.br/',
         demo: 'https://amopepodologia.com.br/'
     },
     {
@@ -138,7 +138,7 @@ export const projects = [
         title: 'Website',
         description:
             'O site da escola ESA Escola Infantil utiliza HTML, CSS e JavaScript para criar uma interface dinâmica e responsiva. O site também usa conceitos de API, fetch e async/await consumindo dados da Agenda Edu.',
-        codigo: 'https://esaescolainfantil.com.br/',
+        //codigo: 'https://esaescolainfantil.com.br/',
         demo: 'https://esaescolainfantil.com.br/'
     },
     {
@@ -148,7 +148,7 @@ export const projects = [
         title: 'Erpress',
         description:
             'Sistema de gestão - ERP fácil e descomplicado, atende diversos seguimentos no mercado, tecnologias aplicadas, PHP e MYSQL',
-        codigo: 'https://erp.erpress.com.br/',
+        //codigo: 'https://erp.erpress.com.br/',
         demo: 'https://erp.erpress.com.br/'
     },
     {
@@ -158,8 +158,8 @@ export const projects = [
         title: 'Agência',
         description:
             'Site institucional de uma agência de marketing digital, com foco em serviços de SEO, criação de sites e gestão de redes sociais.',
-        codigo: 'https://agenciadigital.com.br/',
-        demo: 'https://agenciadigital.com.br/'
+        //codigo: 'https://downloadsistemas.com.br/agencia',
+        demo: 'https://downloadsistemas.com.br/agencia'
     },
     {
         id: 6,
@@ -168,8 +168,8 @@ export const projects = [
         title: 'Advocacia',
         description:
             'Site institucional de um escritório de advocacia, apresentando serviços jurídicos e informações sobre a equipe.',
-        codigo: 'https://advocaciaexemplo.com.br/',
-        demo: 'https://advocaciaexemplo.com.br/'
+        //codigo: 'https://downloadsistemas.com.br/advogado/',
+        demo: 'https://downloadsistemas.com.br/advogado/'
     },
     
 ]
