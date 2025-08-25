@@ -73,6 +73,6 @@ Para visualizar uma prévia do projeto <a href="https://fabioalexandre1911.githu
 
 ## Autor
 
-| [<img src="./public/fabio.jpg"><br><sub><b>Fábio Sousa</b></sub>](https://www.linkedin.com/in/fabio-alexandre-de-sousa-40b2703b/) |
+| [<img src="./public/fabio.jpg" width="115"><br><sub><b>Fábio Sousa</b></sub>](https://www.linkedin.com/in/fabio-alexandre-de-sousa-40b2703b/) |
 |:---:|
 
