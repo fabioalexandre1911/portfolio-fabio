@@ -55,16 +55,16 @@ const Home = () => {
                     Sou natural de São Paulo, graduado em Análise de Desenvolvimento de Sistemas, um apaixonado por tecnologia e desenvolvimento Web, atualmente venho evoluindo minhas skills no front-end com React e também venho me especializando em Designer UX/UI.
                 </p>
 
-                <div className="home__socials">
-                    <a href="https://www.linkedin.com/in/fabio-alexandre-de-sousa-40b2703b/" className="home__social-link" target="_blank">
+                <div className="header__socials">
+                    <a href="https://www.linkedin.com/in/fabio-alexandre-de-sousa-40b2703b/" className="header__social-link" target="_blank">
                         <FaLinkedin />
                     </a>
 
-                    <a href="https://github.com/fabioalexandre1911" className="home__social-link" target="_blank">
+                    <a href="https://github.com/fabioalexandre1911" className="header__social-link" target="_blank">
                         <FaGithub />
                     </a>
 
-                    <a href="https://www.instagram.com/fabioalexandre.sousa/" className="home__social-link" target="_blank">
+                    <a href="https://www.instagram.com/fabioalexandre.sousa/" className="header__social-link" target="_blank">
                         <FaInstagram />
                     </a>
                 </div>
