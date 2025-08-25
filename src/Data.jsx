@@ -138,7 +138,7 @@ export const projects = [
         title: 'Website',
         description:
             'O site da escola ESA Escola Infantil utiliza HTML, CSS e JavaScript para criar uma interface dinâmica e responsiva. O site também usa conceitos de API, fetch e async/await consumindo dados da Agenda Edu.',
-        //codigo: 'https://esaescolainfantil.com.br/',
+        codigo: 'https://esaescolainfantil.com.br/',
         demo: 'https://esaescolainfantil.com.br/'
     },
     {
