@@ -73,6 +73,6 @@ Para visualizar uma prévia do projeto <a href="https://fabioalexandre1911.githu
 
 ## Autor
 
-| [<img src="https://media.licdn.com/dms/image/v2/D4D03AQHoWyTI_pHhDA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1694041486911?e=1753315200&v=beta&t=Gs-PEcaaN33NfIn7u6QumhY8PzqzsSlo-vNVVzERdco" width="115"><br><sub><b>Fábio Sousa</b></sub>](https://www.linkedin.com/in/fabio-alexandre-de-sousa-40b2703b/) |
+| [<img src="./public/fabio.jpg"><br><sub><b>Fábio Sousa</b></sub>](https://www.linkedin.com/in/fabio-alexandre-de-sousa-40b2703b/) |
 |:---:|
 
