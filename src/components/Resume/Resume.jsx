@@ -33,7 +33,26 @@ const Resume = () => {
                 </div>
             </div>
 
-            
+            <div className="resume__group">
+                <h3 className="resume__heading">Experiência</h3>
+
+                <div className="resume__items">
+                    {cv.map((val, id) => {
+                        if(val.category === 'experiencia') {
+                            return (
+                                <Card 
+                                    key={id} 
+                                    title={val.title} 
+                                    subtitle={val.subtitle} 
+                                    date={val.date} 
+                                    description={val.description} 
+                                />
+                            );
+                        }
+                    })}
+                </div>
+            </div>
+        </div>
 
         {/* <div className="section__deco deco__left"></div> */}
     </section>
