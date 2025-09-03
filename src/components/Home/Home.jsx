@@ -6,7 +6,7 @@ import shapetwo from '../../assets/icon-js.png';
 import shapethree from '../../assets/icon-node.png';
 
 import { FaLinkedin, FaGithub, FaInstagram } from 'react-icons/fa';
-import CV from '../../assets/curriculo-fabio.pdf'
+import CV from '../../assets/curriculo-fabio-new.pdf'
 
 const Home = () => {
   return (
