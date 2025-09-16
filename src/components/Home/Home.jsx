@@ -69,9 +69,14 @@ const Home = () => {
                     </a>
                 </div>
 
-                <div className="home__btns">
-                    <a download="" href={CV} className="btn text-cs">Dowload CV</a>
-                    {/*<a href="" className="btn text-cs">Dowload CV</a>*/}
+                <a
+                    download
+                    href="https://fabioalexandre1911.github.io/portfolio-fabio/curriculo.pdf"
+                    className="btn text-cs"
+                    >
+                    Download CV
+                    </a>
+
                     <a href="#skills" className="hero__link text-cs">Minhas Skills</a>
                 </div>
             </div>
