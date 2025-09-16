@@ -6,14 +6,14 @@ import shapetwo from '../../assets/icon-js.png';
 import shapethree from '../../assets/icon-node.png';
 
 import { FaLinkedin, FaGithub, FaInstagram } from 'react-icons/fa';
-import CV from '../../assets/curriculo.pdf';
+import CV from '../../assets/curriculo.pdf'
 
 const Home = () => {
   return (
     <section className="home" id="home">
         <div className="home__wrapper">
             <div className="home__container container">
-                <p className="home__subtitle text-cs"> 
+                <p className="home__subtitle text-cs">
                     Olá, <span>Meu nome é</span>
                 </p>
 
@@ -69,14 +69,9 @@ const Home = () => {
                     </a>
                 </div>
 
-                <a
-                    download
-                    href="https://fabioalexandre1911.github.io/portfolio-fabio/curriculo.pdf"
-                    className="btn text-cs"
-                    >
-                    Download CV
-                    </a>
-
+                <div className="home__btns">
+                    {/* <a download="" href={CV} className="btn text-cs">Dowload CV</a> */}
+                    {/* <a href="" className="btn text-cs">Dowload CV</a> */}
                     <a href="#skills" className="hero__link text-cs">Minhas Skills</a>
                 </div>
             </div>
