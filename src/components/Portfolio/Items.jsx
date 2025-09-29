@@ -28,10 +28,10 @@ const Items = ({ projectItems }) => {
               <p className="portfolio__description">{description}</p>
 
               <div className="portfolio__link--wrapper">
-                <a href={codigo} className="btn-icon btn text-cs" target="_blank">
+                {/* <a href={codigo} className="btn-icon btn text-cs" target="_blank">
                   <AiOutlineGithub />
                    Código
-                </a>
+                </a> */}
                 <a href={demo} className="btn-icon btn text-cs" target="_blank">
                   <AiOutlineFundProjectionScreen />
                    Live Demo
