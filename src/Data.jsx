@@ -121,7 +121,7 @@ export const projects = [
         category: 'Javascrit',
         title: 'Website',
         description:
-            'Este é um website de Edmárcio Rodrigues, mestre de artes marciais com mais de três décadas de dedicação e paixão por diversas modalidades de luta. Construção com react e sass',
+            'Este é um website de Edmárcio Rodrigues, mestre de artes marciais com mais de três décadas de dedicação e paixão por diversas modalidades de luta.',
         //codigo: 'https://edmarciorodrigues.com.br/',
         demo: 'https://edmarciorodrigues.com.br/'
     },
